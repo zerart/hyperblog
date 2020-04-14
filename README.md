@@ -10,5 +10,6 @@ Un blog increible para el curso de git y github
 
 *Creado por el increible yo xD
 *Incluye toda la wadas
+*Disponible pa todos
 
 Y como un amable recordatorio: **este readme.md es un chiste**
