@@ -9,5 +9,6 @@ Un blog increible para el curso de git y github
 - El flujo de trabajo de Github
 
 *Creado por el increible yo xD
+*Incluye toda la wadas
 
 Y como un amable recordatorio: **este readme.md es un chiste**
